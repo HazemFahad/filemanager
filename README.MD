@@ -21,17 +21,15 @@ This app will automatically organize & move your downloads into folders based on
 
 2- Change line 11-19 of the code to your directories. You will need to set up folders yourself. I have included my own paths an example of layout:
 
-<code>
-source_dir = "/Users/hazemfahad/Downloads" <br />
-dest_dir_music = "/Users/hazemfahad/Downloads/music" <br />
-dest_dir_pdf = "/Users/hazemfahad/Downloads/pdf" <br />
-dest_dir_videos = "/Users/hazemfahad/Downloads/videos" <br />
-dest_dir_images = "/Users/hazemfahad/Downloads/images" <br />
-dest_dir_documents = "/Users/hazemfahad/Downloads/documents" <br />
-dest_dir_installers = "/Users/hazemfahad/Downloads/installers" <br />
-dest_dir_zip = "/Users/hazemfahad/Downloads/zip" <br />
-dest_dir_excalidraw = "/Users/hazemfahad/Downloads/excalidraw" <br />
-</code>
+<code>source_dir = "/Users/hazemfahad/Downloads" </code>
+<code>dest_dir_music = "/Users/hazemfahad/Downloads/music" </code>
+<code>dest_dir_pdf = "/Users/hazemfahad/Downloads/pdf" </code>
+<code>dest_dir_videos = "/Users/hazemfahad/Downloads/videos" </code>
+<code>dest_dir_images = "/Users/hazemfahad/Downloads/images" </code>
+<code>dest_dir_documents = "/Users/hazemfahad/Downloads/documents" </code>
+<code>dest_dir_installers = "/Users/hazemfahad/Downloads/installers" </code>
+<code>dest_dir_zip = "/Users/hazemfahad/Downloads/zip" </code>
+<code>dest_dir_excalidraw = "/Users/hazemfahad/Downloads/excalidraw" </code>
 
 3- Run the app by running the following in terminal `python3 auto.py`
 
